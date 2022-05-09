@@ -1,4 +1,4 @@
-# udemy_machine_learning
+# Machine Learning for Beginners Class
 Example Code from Udemy's Machine Learning for Beginners Class
 
 Link to Class:
